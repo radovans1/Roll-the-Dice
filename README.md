@@ -24,4 +24,4 @@ flutter analyze
 flutter test
 ```
 
-Screenshoty dvoch rôznych hodov z emulátora alebo zariadenia treba doplniť pred odovzdaním.
+
